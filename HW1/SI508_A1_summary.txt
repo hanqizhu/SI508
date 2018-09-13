@@ -1,0 +1,3 @@
+This assignment is quite simple: the content is just what I learn from the textbook basics.
+1. I think iteration and string slicing are useful, which are also different from what I learned in C++ language.
+2. Other basic programming logics in python are similar to other high level languages, so I started quite easily. Maybe I will find more differences as I go on studying python :)
